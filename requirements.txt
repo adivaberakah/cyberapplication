@@ -6,7 +6,7 @@ Flask==0.12.2
 googlemaps==2.5.1
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 matplotlib==2.0.0
 numpy==1.13.1
